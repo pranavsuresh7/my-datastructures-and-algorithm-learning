@@ -1,2 +1,2 @@
 # my-datastructures-and-algorithm-learning
-This my path to rewire my programming skills with java.I'll update it daily.
+coding puzzle and datastructures practice just hobby
